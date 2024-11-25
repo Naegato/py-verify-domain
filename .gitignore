@@ -1,0 +1,7 @@
+.env.local
+
+.idea
+.vscode
+
+last_mail_time.txt
+monitoring.log
